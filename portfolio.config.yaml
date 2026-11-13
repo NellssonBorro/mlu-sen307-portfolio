@@ -20,6 +20,7 @@ showPoweredBy: false  # Set to true to show a small "Made with GitVitae" badge i
 name: "Nelson Boro"              # Your name — shown in the header and used as a fallback in the avatar
 title: "Software Developer | Educator."
 email: "boronelson12@gmail.com"
+tagline: "Building software and building people that build software"
 phone: ""                    # Optional — e.g. "+1 (555) 000-1234". Shown in contact section and resume.
 location: "Abuja, Nigeria"
 avatarUrl: ""  # Demo avatar — replace with your own photo URL (see instructions below)
