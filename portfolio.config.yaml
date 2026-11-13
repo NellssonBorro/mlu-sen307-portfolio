@@ -23,7 +23,7 @@ email: "boronelson12@gmail.com"
 tagline: "Building software and building people that build software"
 phone: ""                    # Optional — e.g. "+1 (555) 000-1234". Shown in contact section and resume.
 location: "Abuja, Nigeria"
-avatarUrl: ""  # Demo avatar — replace with your own photo URL (see instructions below)
+avatarUrl: "https://github.com/nellssonborro.png"  # Demo avatar — replace with your own photo URL (see instructions below)
 # How to add a profile photo (free, no extra account needed):
 #   1. Go to your GitHub repo → click "Add file" → "Upload files"
 #   2. Upload your photo (e.g. avatar.jpg) into a folder called "public/"
